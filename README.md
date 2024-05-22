@@ -1,6 +1,7 @@
 # TIBCO Spotfire Basics
 
-Welcome to the **TIBCO Spotfire Basics** repository! 🎉 This repository is your gateway to mastering TIBCO Spotfire, the powerhouse for data visualization and analytics. Here, you'll find everything you need to build stunning dashboards, analyze data like a pro, and share your insights with the world. 🌟
+Welcome to the **TIBCO Spotfire Basics** repository! 🎉 I created this TIBCO Spotfire Basics repository to document my learning journey in TIBCO Spotfire. Here, I will compile notes, visualization dashboards, data files, and other resources that I acquire along the way. If you are beginning your journey in TIBCO Spotfire, I invite you to explore this repository.
+
 
 ## Table of Contents
 
@@ -81,14 +82,4 @@ Learn how to share your insights:
 
 We welcome contributions! If you have ideas for improving this guide or adding new content, please open an issue or submit a pull request.
 
-## License 📜
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact ✉️
-
-For any questions or feedback, please reach out to [Your Email](mailto:youremail@example.com).
-
----
-
-Thank you for using the TIBCO Spotfire Basics repository! We hope this guide helps you unlock the full potential of Spotfire and empowers you to create insightful and impactful data visualizations. Happy analyzing! 🚀
